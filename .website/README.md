@@ -1,4 +1,8 @@
 ---
+genres:
+  - arcade
+  - card-games
+  - strategy
 video: https://youtu.be/GkyfkA08Lu0
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
